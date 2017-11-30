@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851493032889",
+    "firebase_url": "https://classified-7f619.firebaseio.com",
+    "project_id": "classified-7f619",
+    "storage_bucket": "classified-7f619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851493032889:android:b76dea16792c90f0",
+        "android_client_info": {
+          "package_name": "com.mannysight.howmarket.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851493032889-0s5fndud1rpm3u3hlgjdtltkidfgfmub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mannysight.howmarket.live",
+            "certificate_hash": "1099b240b67ab16cdc28fc34167f24e041c1c630"
+          }
+        },
+        {
+          "client_id": "851493032889-eb20fpu6bc1qf9fjq3oiudjn992sol1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Xvp63mrMoYZmMNmnmwXv2O2-SDVzPmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851493032889-eb20fpu6bc1qf9fjq3oiudjn992sol1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
