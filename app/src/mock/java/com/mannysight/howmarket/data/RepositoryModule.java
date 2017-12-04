@@ -1,7 +1,5 @@
 package com.mannysight.howmarket.data;
 
-import android.app.Application;
-
 import com.mannysight.howmarket.data.auth.AuthSource;
 import com.mannysight.howmarket.data.auth.FakeAuthService;
 import com.mannysight.howmarket.util.BaseSchedulerProvider;
